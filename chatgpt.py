@@ -102,7 +102,7 @@ HELP_BACK = [
 
   
 #         start
-@GOVIND_OFFICIAL_MP.on_message(filters.command(["start",f"start@{BOT_USERNAME}"]))
+@DAXX.on_message(filters.command(["start",f"start@{BOT_USERNAME}"]))
 async def start(client, m: Message):
     try:
         accha = await m.reply_text(
@@ -166,7 +166,7 @@ async def ping(client, message: Message):
 
 #  main   
 openai.api_key = OPENAI_KEY
-@GOVIND_OFFICIAL_MP1.on_message(filters.command(["chatgpt","ai","ask"],  prefixes=["+", ".", "/", "-", "?", "$","#","&"]))
+@DAXX.on_message(filters.command(["chatgpt","ai","ask"],  prefixes=["+", ".", "/", "-", "?", "$","#","&"]))
 async def chat(bot, message):
     
     try:
