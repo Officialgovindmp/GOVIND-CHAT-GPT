@@ -3,15 +3,15 @@
 
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXCHATGPT&theme=flag-india)
-[![GIF](https://github.com/DAXXTEAM/DAXXCHATGPT/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GOVIND-BOTS&repo=GOVIND-CHAT-GPT&theme=flag-india)
+[![GIF](https://github.com/Officialgovindmp/GOVIND-CHAT-GPT/blob/main/Officialgovindmp.gif)](https://github.com/DAXXTEAM)
+   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=GOVIND-BOTS "GOVIND-BOTSX")](https://github-stats-alpha.vercel.app/api?username=GOVIND-BOTS "GOVIND-BOTS")
                   
 
 
 
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GOVIND-BOTS&show_icons=true&locale=en&layout=compact" alt="GOVIND-BOTS" /></p>
 
 
 # Deploy To Heroku 
