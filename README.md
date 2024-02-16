@@ -11,7 +11,7 @@
 
 
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GOVIND-BOTS&show_icons=true&locale=en&layout=compact" alt="GOVIND-BOTS" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GOVIND-BOTS&show_icons=true&locale=en&layout=compact" alt="GOVIND-BOTS /></p>
 
 
 # Deploy To Heroku 
